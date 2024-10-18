@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650781860658",
+    "project_id": "servitrade-e388b",
+    "storage_bucket": "servitrade-e388b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650781860658:android:aabbe7d0c7ef530cd9ad2b",
+        "android_client_info": {
+          "package_name": "com.bsc.ServiTrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNj_yYaDffWYCvsRd9jlhE_m5MlUHrcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
